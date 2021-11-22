@@ -30,7 +30,7 @@ An application for viewing and submitting poems!
 
 *Disclaimer*
 
-*Currently the application does not have a resposive design 
+*Currently the application does not have a resposive design* 
 
 The home page displays a list of existing poems, where the title, author, and preview(first 10 words of the poem text) is shown.
 
