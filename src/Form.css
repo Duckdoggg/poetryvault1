@@ -1,0 +1,59 @@
+.formStyle {
+    list-style: none;
+}
+
+input[name=title] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: none;
+  }
+
+  input[name=author] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: none;
+  }
+
+ .formStyle {
+    margin-top: 30px;
+    width: 30%;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #C4EEDE;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #15cdfc;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  textarea{
+    width:100%;
+    max-width: 100%;
+    min-width:100%;
+    height: 100px;
+    border: none;
+  }
+
+  hr.horizontalLine2 {
+    border: 1px solid gray;
+    width: 60%;
+  }
+
+  

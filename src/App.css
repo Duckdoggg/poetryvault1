@@ -1,0 +1,109 @@
+*{
+  margin: 0px auto;
+  width:100%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.App {
+  text-align: center;
+}
+
+nav{
+  margin-top: 50px;
+  background: white;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  background-color: lightcyan;
+}
+
+.mainNav{
+  padding: 25px;
+  color: black;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.mainNav:hover{
+  color: gray;
+}
+.mainNavActive{
+  color: #15cdfc;
+}
+
+.poemStyle{
+  background-color: #C4EEDE;
+  margin-top: 50px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  width: 90%;
+  float:inline-end;
+}
+
+.poemList{
+  margin-top: 50px;
+  align-items: center;
+  width: 60%;
+}
+
+.verticalLine {
+  border-left: solid gray;
+  height: 100%;
+  min-height: 100%;
+}
+
+.poemLink {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  word-break:break-word;
+}
+
+.poemLink:hover{
+  color: gray;
+  text-decoration: underline;
+}
+
+hr.horizontalLine {
+  margin-top: 50px;
+  border: 1px solid gray;
+}
+
+button{
+  margin-top: 5px;
+  background-color: transparent;
+  color: #15cdfc;
+  padding: 0.5px;
+  align-items: center;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 45px;
+}
+
+.text {
+  margin-top: 20px;
+  font-size: 12px;
+  word-break: break-all;
+}
+
+.author{
+  font-size: 20px;
+  word-break: break-all;
+}
+
+.logo{
+  width: 196px;
+  height: 128px;
+  margin-top: -40px;
+}
+
+hr.horizontalLineaAbout {
+  margin-top: 50px;
+  border: 1px solid gray;
+  width:60%;
+  margin-bottom: 50px ;
+}

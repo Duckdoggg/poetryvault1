@@ -1,0 +1,26 @@
+{
+    "poems": [
+      {
+        "id": 0,
+        "title": "Composed upon Westminster Bridge",
+        "author": "William Wordsworth",
+        "text": "Earth has not any thing to show more fair:\n\nDull would he be of soul who could pass by\n\nA sight so touching in its majesty:\n\nThis City now doth, like a garment, wear\n\nThe beauty of the morning; silent, bare,\n\nShips, towers, domes, theatres, and temples lie\n\nOpen unto the fields, and to the sky;\n\nAll bright and glittering in the smokeless air.\n\nNever did sun more beautifully steep\n\nIn his first splendour, valley, rock, or hill;\n\nNe'er saw I, never felt, a calm so deep!\n\nThe river glideth at his own sweet will:\n\nDear God! the very houses seem asleep;\n\nAnd all that mighty heart is lying still!",
+        "votes": 0
+      },
+      {
+        "id": 1,
+        "title": "No Man is An Island",
+        "author": "John Donne",
+        "text": "No man is an island entire of itself;\n\n every man is a piece of the continent, a part of the main;\n\nif a clod be washed away by the sea, Europe\n\nis the less, as well as if a promontory were, as\n\nwell as any manner of thy friends or of thine \n\nown were; any man's death diminishes me,\n\nbecause I am involved in mankind.\n\nAnd therefore never send to know for whom\n\nthe bell tolls; it tolls for thee. ",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "title": "Lighting One Candle",
+        "author": "Yosa Buson",
+        "text":"Lighting one candle\n\nwith another candle--\n\nspring evening",
+        "votes": 0
+      }
+      
+    ]
+  }
